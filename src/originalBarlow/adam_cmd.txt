@@ -1,0 +1,7 @@
+  472  python ft_p_light_adamw.py   --checkpoint bt_res50_512_lambda1e3_finetuned.pth   --epochs 100   --lr 2e-4   --wd 5e-4   --workers 4
+  533  vi ft_p_light_adamw.py
+  534  python ft_p_light_adamw.py   --checkpoint bt_res50_512_lambda1e3_finetuned.pth   --epochs 100   --lr 2e-4   --wd 5e-4   --workers 4
+  678  cat ft_p_light_adamw.py 
+  959  vi ft_p_light_adamw.py
+  976  history |grep ft_p_light_adamw
+  978  history |grep ft_p_light_adamw >>adam_cmd.txt
