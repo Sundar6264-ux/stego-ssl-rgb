@@ -1,4 +1,5 @@
 # 🛰️ stego-ssl-rgb — Self‑Supervised Learning with Steganographic Perturbations
+> **Project timeline:** Initially built in **May 2025**; this README updated **September 2025**.
 
 A compact research repo exploring **Barlow Twins** self‑supervised learning on **CIFAR‑10**
 with **bit‑plane steganography** used as an *intentional perturbation/augmentation*.
