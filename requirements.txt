@@ -1,0 +1,12 @@
+# Core ML stack
+torch
+torchvision
+
+# Numerics & utils
+numpy
+Pillow
+tqdm
+
+# Evaluation & visualization
+scikit-learn
+matplotlib
