@@ -131,7 +131,7 @@ Artifacts (accuracy curves, TSNE snapshots) will appear under `results/` and alo
 
 ## 🧾 License & Citation
 
-Use any OSI license you prefer (e.g., MIT). If you publish work using this repo, please cite **Barlow Twins** and (optionally) this repository.
+If you publish work using this repo, please cite **Barlow Twins** and (optionally) this repository.
 
 **Barlow Twins (ICML 2021) — preferred**  
 Zbontar, J., Jing, L., Misra, I., LeCun, Y., & Deny, S. (2021). *Barlow Twins: Self-Supervised Learning via Redundancy Reduction.* In **Proceedings of the 38th International Conference on Machine Learning (ICML)**, PMLR 139, 12310–12320.
@@ -160,17 +160,6 @@ Zbontar, J., Jing, L., Misra, I., LeCun, Y., & Deny, S. (2021). *Barlow Twins: S
   author  = {Zbontar, Jure and Jing, Li and Misra, Ishan and LeCun, Yann and Deny, St{'e}phane},
   journal = {arXiv preprint arXiv:2103.03230},
   year    = {2021}
-}
-```
-
-**(Optional) Cite this repository**
-```bibtex
-@misc{mamilla2025stego_ssl_rgb,
-  title        = {stego-ssl-rgb: Self-Supervised Learning with Steganographic Perturbations},
-  author       = {Mamilla, Soma Sundar},
-  year         = {2025},
-  howpublished = {\url{https://github.com/<your-username>/stego-ssl-rgb}},
-  note         = {Version <tag or commit>},
 }
 ```
 
